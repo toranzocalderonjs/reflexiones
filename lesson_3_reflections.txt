@@ -1,3 +1,10 @@
-Reflexiones sobre la tercera lección
+﻿Reflexiones sobre la tercera lección
 """"""""""""""""""""""""""""""""""""
+
+1) When would you want to use a remote repository rather than keeping all your work local?
+
+Existen varias razones para querer usar un repositorio remoto en lugar de sólo trabajar con un espacio local:
+* Colaborar en un proyecto con múltiples participantes.
+* Conservar una copia del trabajo que esté excenta de ciertas eventualidades problemáticas.
+
 
