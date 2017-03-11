@@ -1,0 +1,31 @@
+* What happens when you initialize a repository? Why do you need to do it?
+
+Al inicializar un repositorio se generan archivos con la metadata necesaria para poder llevar el control de cambios y así manejar la estructura de revisiones.
+
+
+* How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+SA (staging area) es un espacio intermedio entre el repositorio y el WD (working directory). Se diferencian en que WD es una copia (modificada o no) del repositorio, mientras que SA es sólo el espacio en el que se vuelca una selección de archivos y directorios a ser actualizados en el repositorio (bajo un nuevo commit).
+
+
+* How can you use the staging area to make sure you have one commit per logical change?
+
+
+
+
+* What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Situaciones apropiadas para abrir una rama serían versiones experimentales, versiones alternativas, etc. Su utilidad está dada por la posibilidad de conservar en paralelo y bajo conceptos las distintas versiones, en lugar de trabajar uno después de otro los distintos cambios y encadenados por orden en vez de categorizados.
+
+
+* How do the diagrams help you visualize the branch structure?
+
+Los commits se relacionan unos con otros siempre de manera que cada commit tiene algún padre (un commit previo a él), excepto por el commit que da comienzo al repositorio que no tiene ninguno. Un commit puede tener cualquier cantidad de hijos, desde cero en adelante. Los diagramas que representan estas relaciones tienen la forma de un árbol y ayudan a ver las relaciones de parentezco entre los commits, a la vez que permiten saber si dos commits se hallan en la misma rama (es decir que uno puede llegar al otro rastreando sus antepasados).
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+
+
+
+What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges manually?
