@@ -8,3 +8,6 @@ Existen varias razones para querer usar un repositorio remoto en lugar de sólo 
 * Conservar una copia del trabajo que esté excenta de ciertas eventualidades problemáticas.
 
 
+2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+En lugar de que Git mantenga el repositorio local actualizado automáticamente, es preferible actualizarlo manualmente. Pero, ¿por qué?
