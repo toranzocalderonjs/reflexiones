@@ -11,3 +11,12 @@ Existen varias razones para querer usar un repositorio remoto en lugar de sólo 
 2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 En lugar de que Git mantenga el repositorio local actualizado automáticamente, es preferible actualizarlo manualmente. Pero, ¿por qué?
+
+
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Un branch permite generar versiones alternativas del proyecto en el que se esté trabajando, de manera que luego puedan ser unificadas e incluso compartidas individualmente a otras personas.
+Por otro lado, una clonación consiste en copiar un repositorio (local o remoto) al espacio de trabajo local, de manera que se genere un proyecto nuevo sobre el cual trabajar.
+Finalmente, un fork consiste en generar una copia remota de otro repositorio remoto, de manera que se pueda contar con ese proyecto, sin afectar al original en ningún aspecto.
+
+
