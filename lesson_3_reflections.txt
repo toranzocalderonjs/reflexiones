@@ -20,3 +20,7 @@ Por otro lado, una clonación consiste en copiar un repositorio (local o remoto)
 Finalmente, un fork consiste en generar una copia remota de otro repositorio remoto, de manera que se pueda contar con ese proyecto, sin afectar al original en ningún aspecto.
 
 
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+¿?¿?¿?
+
