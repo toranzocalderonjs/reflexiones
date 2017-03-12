@@ -24,3 +24,8 @@ Finalmente, un fork consiste en generar una copia remota de otro repositorio rem
 
 ¿?¿?¿?
 
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Esta pregunta requiere de reflexiones innecesarias.
+
